@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@lhimaja/greetings-ex": "^1.0.0",
+    "aasritha_m_first_package": "^1.0.0",
+    "express": "^5.1.0"
+  },
+  "name": "mern_pack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
